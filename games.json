@@ -1,0 +1,26 @@
+
+{
+  "games": [
+    {
+      "title": "Lethal Company",
+      "gameArchiveId": "1XCWyrnp7JC4vbM08jMiQ37YRm6EQt6dV",
+      "modsArchiveId": "12hcFRgAavO5PgAYQxn5uFAihiHX8MqWV",
+      "imageUrl": "https://raw.githubusercontent.com/KAPTOZZKA/BestReserviaLauncher/main/assets/game_images/lethal_company.png",
+      "isAvailable": true
+    },
+    {
+      "title": "PEAK",
+      "gameArchiveId": "1tK3XK6kExVHaly_UgmERelTCrWCTY-c2",
+      "modsArchiveId": "1IKmCncSMo0GE88Zb2Zf98NDQpYD71uXS",
+      "imageUrl": "https://raw.githubusercontent.com/KAPTOZZKA/BestReserviaLauncher/main/assets/game_images/peak.png",
+      "isAvailable": true
+    },
+    {
+      "title": "Minecraft",
+      "gameArchiveId": null,
+      "modsArchiveId": null,
+      "imageUrl": "https://raw.githubusercontent.com/KAPTOZZKA/BestReserviaLauncher/main/assets/game_images/default.png",
+      "isAvailable": false
+    }
+  ]
+}
